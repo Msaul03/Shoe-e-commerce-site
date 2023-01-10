@@ -1,0 +1,11 @@
+{
+  "name": "shoes-site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": " <Msaul03>",
+  "license": "MIT "
+}
